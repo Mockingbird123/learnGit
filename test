@@ -1,6 +1,2 @@
 在master分支中添加的第一个文件
-远程新添加了一个hotfix_1126分支
-远程又加了一个hotfix2分支
-远程又又加了一个hotfix3分支
-远程又又又加了一个hotfix4分支
-远程增加hotfix/5分支
+用gitflow创建hotfix分支
